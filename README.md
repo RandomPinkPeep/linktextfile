@@ -8,4 +8,4 @@ The simplest way to do this is to go to the download link of the app and right c
 
 
 
-![Uploading tutorial.gif…]()
+![tutorial](https://github.com/user-attachments/assets/985be654-91ce-4bf3-bdb1-50eec16617e0)

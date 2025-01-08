@@ -8,5 +8,4 @@ The simplest way to do this is to go to the download link of the app and right c
 
 
 
-https://github.com/user-attachments/assets/6af7aa38-1915-4045-acd0-071264a1600c
-
+![Uploading tutorial.gif…]()
